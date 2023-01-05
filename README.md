@@ -42,7 +42,9 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-![GANESH 3 2_page-20kb](https://user-images.githubusercontent.com/122046208/210849099-2b517c3a-dbc5-45ba-986a-099468d78e27.jpg)
+![GANESH 3 2_page-20kb](https://user-images.githubusercontent.com/122046208/210849224-8220739f-514c-46d4-9979-7b522e795161.jpg)
+
+
 
 
 ## RESULT:
